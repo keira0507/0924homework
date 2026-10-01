@@ -1,0 +1,88 @@
+/* .container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+figure {
+  width: 340px;
+  border: 1px solid #d1d5dc;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+img {
+  display: block;
+  width: 100%;
+}
+
+figcaption {
+  padding: 32px 24px;
+}
+
+h1 {
+  font-size: 30px;
+  margin-bottom: 16px;
+  font-family: "細明體";
+  font-weight: bold;
+}
+
+.btn_car {
+  display: block;
+  width: 292px;
+  font-size: 18px;
+  color: white;
+  background-color: #ff1331;
+  border: 2px solid #ff1331;
+  padding: 12px;
+  margin-bottom: 8px;
+}
+
+.btn_buy {
+  display: block;
+  width: 292px;
+  font-size: 18px;
+  color: #ff1331;
+  background-color: white;
+  border: 2px solid #ff1331;
+  padding: 12px;
+}
+
+svg {
+  display: block;
+  width: 100%;
+  height: 1px;
+  margin: 24px 0px;
+}
+
+p {
+  margin-bottom: 16px;
+  font-family: "細明體";
+  font-weight: bold;
+}
+
+ul {
+  padding-left: 12px;
+}
+
+li {
+  list-style: circle;
+  padding-bottom: 12px;
+  font-family: "細明體";
+  font-weight: bold;
+}
+
+.bottom-note {
+  padding: 16px 0px;
+
+  border-top: 1px solid #d1d5dc;
+}
+
+p.note {
+  margin: 0px;
+  padding: 0px;
+  font-family: "細明體";
+  font-weight: bold;
+  text-align: center;
+  white-space: nowrap;
+}
